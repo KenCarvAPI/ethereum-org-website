@@ -404,6 +404,8 @@ There are multiple oracle applications you can integrate into your Ethereum dapp
 
 **[Dos.Network](https://dos.network/)** - _DOS Network is a decentralized oracle service network to boost blockchain usability with real-world data and computation power._
 
+**[API3 DAO](https://api3.org/)** - _API3 first-party decentralized oracles deliver transparent, secure and scaleable data feed services with a risk protection service underpinned by the DAO.
+
 ## Further reading {#further-reading}
 
 **Articles**
